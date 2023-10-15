@@ -1,0 +1,61 @@
+﻿drug_id, drug_name, manufacturer, mrp_price,supplier_id
+23,Ampicillin,A. Menarini Farmaceutica Internazionale SRL,172,32
+47,Anastrozole,AbbVie Ltd,3199,54
+69,AndroGel,Accord Healthcare Limited,1804,56
+64,Annovera,Accord-UK Ltd,3706,21
+61,Apalutamide,Advanced Accelerator Applications,2325,48
+60,Apixaban,ADVANZ Pharma,1474,94
+37,Apokyn,Aerona Clinical Limited,4236,25
+31,Apriso,AGB-Pharma AB,1864,59
+32,Aptiom,AGEPHA Pharma s.r.o.,2812,20
+68,Aricept,Aguettant Ltd,166,17
+80,Arimidex,Aimmune Therapeutics UK Limited,1757,60
+97,Aripiprazole,AJ Vaccines A/S,1670,86
+44,Aristada,Akcea Therapeutics UK Ltd,1036,41
+39,Aromasin,Alan Pharmaceuticals,638,53
+46,Ascorbic acid,Albireo Pharma,2337,97
+22,Aspirin,Alcon Eye Care UK Limited,2843,70
+53,Atenolol,Alexion Pharma UK Ltd,2657,76
+70,Ativan,Alimera Sciences Limited,1592,15
+65,Atomoxetine,ALK-Abello Ltd,1365,91
+58,Atorvastatin,Allen & Hanburys Ltd,154,33
+21,Atropine,Allergy Therapeutics,4201,79
+95,Aubagio,Alliance Pharmaceuticals,1350,88
+42,Augmentin,Almirall Limited,2500,43
+48,Austedo,Alnylam UK Ltd,2722,22
+50,Avsola,Alturix Limited,3625,81
+34,Azathioprine,Amarin Pharmaceuticals Ireland Limited,2201,69
+76,Azelastine,Amarox Limited,2815,24
+59,Azilect,Amgen Ltd,253,44
+87,Azithromycin,Amicus Therapeutics UK Ltd,3708,85
+9,Azulfidine,AMRING SARL,3047,52
+75,Eulexin,Amryt Pharmaceuticals DAC,1514,100
+38,Euthyrox,Angelini Pharma UK-I Limited (Formerly Arvelle Therapeutics UK),2988,66
+40,Evenity,Aristo Pharma Limited,3051,78
+57,Evista,AS Kalceks,576,39
+30,Excedrin,Aspen,1973,9
+4,Excedrin Migraine,Aspire Pharma Ltd,4465,42
+99,Exemestane,Astellas Pharma Ltd,3369,64
+91,Eylea,AstraZeneca UK Limited,4566,68
+11,Ezetimibe,Atnahs Pharma UK Ltd,324,40
+8,Herceptin,Aurobindo Pharma - Milpharm Ltd.,2380,8
+78,Hiprex,axunio Pharma GmbH,749,12
+100,Histrelin,Alturix Limited,1361,87
+51,Hizentra,Amarin Pharmaceuticals Ireland Limited,4846,34
+81,Humalog,Amarox Limited,1458,50
+26,Humira,Amgen Ltd,3684,11
+62,Humulin 70/30,Amicus Therapeutics UK Ltd,3251,23
+90,Humulin N,AMRING SARL,4045,13
+28,Humulin R,Amryt Pharmaceuticals DAC,3203,35
+14,Humulin RU 500,Angelini Pharma UK-I Limited (Formerly Arvelle Therapeutics UK),2300,28
+41,Hycodan,Aristo Pharma Limited,2051,77
+7,Hydralazine,AS Kalceks,3181,98
+6,Levetiracetam,Aspen,4927,27
+82,Levocetirizine,Aspire Pharma Ltd,1058,65
+12,Levodopa,Astellas Pharma Ltd,2105,10
+66,Levofloxacin,AstraZeneca UK Limited,2279,84
+94,Levothyroxine,Atnahs Pharma UK Ltd,2350,75
+52,Lexapro,Aurobindo Pharma - Milpharm Ltd.,4902,3
+63,Lexette,axunio Pharma GmbH,1744,82
+33,Lialda,A. Menarini Farmaceutica Internazionale SRL,4964,89
+74,Lidex,AbbVie Ltd,1779,16
